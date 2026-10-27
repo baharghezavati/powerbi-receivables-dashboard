@@ -1,0 +1,5 @@
+payment_method_id,name
+1,Credit Card
+2,Bank Transfer
+3,E-Transfer
+4,Cheque
